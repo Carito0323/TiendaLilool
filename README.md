@@ -4,6 +4,11 @@ Este repositorio contiene el desarrollo completo de la tienda en línea **Lilool
 
 Lilool nace con el propósito de ofrecer un espacio virtual accesible, organizado y amigable para los amantes de los animales, permitiendo explorar una gran variedad de productos, conocer más sobre el bienestar de las mascotas y establecer una comunicación directa con la tienda.
 
+👉 **Visita la tienda en línea aquí:**  
+🔗 [https://carito0323.github.io/TiendaLilool/](https://carito0323.github.io/TiendaLilool/)
+
+Este sitio web ofrece una experiencia completa de compra y aprendizaje para los amantes de los animales, integrando un catálogo interactivo, blog educativo, opiniones de clientes, contacto directo por redes sociales y la posibilidad de crear cuentas para compras personalizadas.
+
 > ⚠️ Nota: Debido a que parte del contenido del sitio (productos, opiniones, redes sociales, etc.) se carga dinámicamente desde la base de datos SQL, dichos datos no se visualizarán al acceder directamente al enlace del sitio, a menos que se esté trabajando en un entorno local con conexión activa a la base de datos.
 
 ---
