@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cantora+One&family=Combo&family=Francois+One&family=Fredoka:wght@500&family=Oswald:wght@300&family=Questrial&family=Roboto+Slab:wght@600&family=Signika+Negative:wght@300&family=Titan+One&display=swap');
+
+.FondoNav {
+    background-color: #365486;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.Naveg {
+    margin-left: 10px;
+    color: white;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 18px;
+}
+
+#Busqueda {
+    margin-left: 500px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    height: 25px;
+    background-color: #DDE6ED;
+    font-size: 16px; 
+}
+
+.Table1, .tr1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.BotonReg, .BotonIni {
+    margin-left: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    height: 30px;
+    background-color: #AED2FF;
+    font-family: 'Francois One', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    color: #B31312;
+    font-size: 70px;
+}
+
+.Texto1 {
+    font-family: 'Combo', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 130px;
+}
+
+h2 {
+    font-family: 'Francois One', sans-serif;
+    color: #213555;
+    text-align: center;
+    font-size: 40px;
+}
+
+.TitCat {
+    font-family: 'Francois One', sans-serif;
+    color: #DA1212;
+    font-size: 40px;
+}
+
+.BotonTiend {
+    margin-left: 600px;
+    border-radius: 10px;
+    height: 30px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+}
+
+.TextBotTienda {
+    text-decoration: none;
+    color: black;
+}
+
+.TitAni {
+    font-family: 'Francois One', sans-serif;
+    color: #213555;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 70px;
+}
+
+.TextCat {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 70px;
+}
+
+.TitAni1 {
+    font-family: 'Francois One', sans-serif;
+    color: #213555;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.TextCat1 {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.Separa {
+    background-color: #176B87;
+}
+
+.TitTab {
+    color: white;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.TextTab {
+    background-color: #9DB2BF;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.TitTab1 {
+    color: white;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+}
+
+.TextTab1 {
+    background-color: #9DB2BF;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.CopyR {
+    text-align: right;
+    font-family: 'Questrial', sans-serif;
+    font-size: 12px;
+}
+
+.TitBlog {
+    font-family: 'Titan One', sans-serif;
+    font-size: 70px;
+    margin-bottom: 40px;
+    color: #88A47C;
+    text-align: center;
+    text-shadow: 3px 6px 3px rgba(0,0,0,1);
+}
+
+.BotVer {
+    text-decoration: none;
+    color: white;
+}
+
+.BotBlog {
+    border-radius: 10px;
+    height: 40px;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 25px;
+    background-color: #354259;
+}
